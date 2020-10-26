@@ -549,15 +549,3 @@ width: 8px;
     color: #000;
     transition: 1s ease-in;
 }
-@media (max-width:975px){
-            p{
-            font-size: 10px;
-         }
-         div{
-            font-size: 10px;
-         }
-         h1{
-            font-size: 20px;
-         }
-         }
-    
