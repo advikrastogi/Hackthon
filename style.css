@@ -1,0 +1,563 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0)),url("https://www.childrenssociety.org.uk/sites/default/files/styles/16_9_media_large/public/2020-09/Lacey%20in%20park%20smiling.jpg?h=38550087&itok=cQksc4tp");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom:  500px;
+}
+.search img{
+    float: left;
+    width: 0px;
+    height: auto ;
+}
+.blackbar{
+    background-color: black;
+    height: 70px;
+}
+.navbar{
+    float: right;
+    
+}
+.navbar li {
+    text-decoration: none;
+    color: white;
+   list-style-type: none ;
+}
+ul li {
+    display: inline-block;
+    padding-right: 40px;
+    padding-top: 15px;
+    font-size: 20px;
+    font-weight: 100px;
+    font-family: Comic Sans MS;
+}
+.one{
+    border: 1px solid transparent;
+    padding-bottom: 12px;
+}
+.one:hover{
+ border-bottom-color: gold;
+border-bottom-width: 3px;
+transition: 1s ease;
+height: 8px;
+width: 8px;
+}
+.two{
+    border: 1px solid transparent;
+    padding-bottom: 12px;
+}
+.two:hover{
+    border-bottom-color: gold;
+   border-bottom-width: 3px;
+   transition: 1s ease;
+   height: 8px;
+   width: 8px;
+   }
+   .three{
+    border: 1px solid transparent;
+    padding-bottom: 12px;
+}
+   .three:hover{
+    border-bottom-color: gold;
+   border-bottom-width: 3px;
+   transition: 1s ease;
+   height: 8px;
+   width: 8px;
+   }
+   .four{
+    border: 1px solid transparent;
+    padding-bottom: 12px;
+}
+.four:hover{
+    border-bottom-color: gold;
+   border-bottom-width: 3px;
+   transition: 1s ease;
+   height: 8px;
+   width: 8px;
+   }
+.five{
+    border: 1px solid transparent;
+    padding-bottom: 12px;
+    margin-top: -120px;
+}
+ .five:hover{
+    border-bottom-color: gold;
+   border-bottom-width: 3px;
+   transition: 1s ease-in;
+   height: 8px;
+   width: 8px;
+   }
+   .donate{
+    color: black ;
+   }
+   .six{
+      text-align:auto;
+       border: 1px solid transparent;
+       background-color: gold;
+       padding-top: 40px;
+       padding-bottom: 10px;
+      padding-left: 100px;
+     
+       margin-left: 900;
+       margin-top: -160px;
+   }
+.arrow{
+    margin-left: 1200px;
+    margin-top: 150px;
+    width:100px;
+
+}
+.rainbow{
+    width: 500px;
+    margin-top: 10px;
+}
+.font{
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    font-size: 100px;
+}
+.heart{
+    padding-left: -100px;
+}
+.text {
+    float: right;
+    font-family: 'Calibri';
+    font-size: 80px;
+    margin-right: 300px;
+    padding-top: 50px;
+    line-height: 90px
+}
+.text2{
+    font-family: 'Calibri';
+    margin-left: 650px;
+    line-height: 20px;
+    font-size: 20px;
+    margin-top: 150px;
+}
+.text3{
+    font-family: 'Calibri';
+    margin-left: 950px;
+    margin-top: -180px;
+    line-height: 20px;
+    font-size: 20px;
+
+}
+.border{
+    margin-left: 650px;
+    margin-top: -170px;
+    color: white;
+    border: 4px solid black;
+    background-color: black;
+    width: 150px;
+    font-size: 20px;
+    font-family: "calibri";
+    text-align: center;
+    padding-top: 24px ;
+    padding-bottom: 24px;
+    padding-left:-2px ;
+    padding-right:10px;
+}
+.border:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s ease;
+}
+.halfarrow{
+    margin-left: 780px;
+    margin-top: -47px;
+    width: 15px;
+}
+.border2{
+    margin-left: 900px;
+    margin-top: -80px;
+    color: black;
+    border: 4px solid gold;
+    background-color: gold;
+    width: 150px;
+    font-size: 20px;
+    font-family: "calibri";
+    text-align: center;
+    padding-top: 24px ;
+    padding-bottom: 24px;
+    padding-left:-2px ;
+    padding-right:10px;  
+}
+.border2:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s ease;
+}
+.line-1{
+    margin-left: 100px;
+}
+.arrow2{
+    width: 100px;
+}
+.text4{
+    font-size: 80px;
+    font-weight: 1000;
+    font-family: "calibri";
+    margin-left: 123px;
+}
+.p2{
+    line-height: 20px;
+    font-size: 20px;
+    font-family: 'Calibri';
+    margin-left: 120px;
+}
+.p3{
+    line-height: 20px;
+    font-size: 20px;
+    font-family: 'Calibri';
+    margin-left: 120px;
+}
+.boy{
+    width: 280px;
+    height: 360px;
+    margin-left: 670px;
+    margin-top: -1000px;
+    background-image: linear-gradient(rgba(0,0,0,0.05),rgba(0, 0, 0, 0.05))url("https://i.pinimg.com/736x/d4/85/43/d48543b30cfac3105476769ca0d2f380.jpg");
+}
+.boy2{
+    width: 280px;
+    height: 360px;
+    margin-top: -1000px ;
+}
+.boy:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.boy2:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.border3{
+    font-family: "calibri";
+    margin-left: 123px;
+    border: 3px solid black;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 18px;
+    padding-right: 20px;
+    width: 153px;
+}
+.border3:hover{
+    background-color: white;
+    color: #000;
+    transition: 1s ease;
+}
+.halfarrow2{
+    margin-left: 290px;
+    margin-top: -40px;
+    width: 15px;
+}
+#photo2{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0)), url("https://media.istockphoto.com/photos/child-hands-formig-heart-shape-picture-id951945718?k=6&m=951945718&s=612x612&w=0&h=ih-N7RytxrTfhDyvyTQCA5q5xKoJToKSYgdsJ_mHrv0=");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.whitetext{
+    color:white;
+    font-family: "calibri";
+    font-size: 80px;
+    margin-left: 900px;
+    padding-top: 100px;
+}
+.h3{
+    color: white;
+    font-family: "calibri";
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 890px;
+}
+.h2{
+    border: 3px solid white;
+    background-color: white;
+    color: #000;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 300px;
+    margin-top: 120px;
+    font-size: 20px;
+    font-family: "calibri";
+    margin-left: 900px;
+}
+.h2:hover{
+    background-color: transparent;
+    color: white;
+    transition: 1s ease;
+}
+.class{
+    font-family: "calibri";
+    font-size: 77px;
+    margin-left: 123px;
+}
+.img1{
+    margin-left: 50px;
+}
+.img1:hover{
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+.u{
+    margin-left: 120px;
+    border: 3px solid gold;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 150px;
+}
+.u:hover{
+    border-bottom: hidden;
+}
+.hr{
+    width:  143px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-left: 122px;
+    margin-top: 1px;
+}
+.campaign{
+    margin-left: 123px;
+    font-family: "calibri";
+    font-size: 25px;
+    margin-top: -47px;
+}
+.hand-heart{
+    margin-left: 450px;
+    margin-top: -32em;
+}
+.hand-heart:hover{
+    transform: scale(1.2);
+    transition: 1s ease-in-out;
+}
+
+.Donate3{
+    margin-top: -280px;
+    margin-left: 450px;
+    border: 3px solid gold;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 150px;
+}
+.donate2{
+    font-family: "calibri";
+    font-size: 25px;
+    margin-left: 450px;
+    margin-top: -10px;
+}
+.hr1{
+    width:  143px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-left: 450px;
+}
+.Donate3:hover{
+    border-bottom: hidden;
+}
+.runner{
+    margin-left: 750px;
+    margin-top: -520px;
+}
+.runner:hover{
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+.raisemoney1{
+    font-family: "calibri";
+    margin-left: 750px;
+    margin-top: -300px;
+    line-height: 35px;
+    border: 3px solid gold;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 213px;
+}
+.raisemoney2{
+    font-family: "calibri";
+    margin-left: 750px;
+    margin-top: -20px;
+    line-height: 35px;
+    border: 3px solid gold;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 160px;
+}
+.raisemoney3{
+    font-family: "calibri";
+    margin-left: 750px;
+    margin-top: -10px;
+    line-height: 35px;
+    border: 3px solid gold;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 123px;
+}
+.hr2{
+    width:  214px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-left: 750px;
+}
+.hr3{
+    width:  155px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-left: 750px;
+}
+.hr4{
+    width:  120px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-left: 750px;
+}
+.raisemoney1:hover{
+    border-bottom: hidden;
+    transition: 1s ease;
+}
+.raisemoney2:hover{
+    border-bottom: hidden;
+    transition: 1s ease;
+}
+.raisemoney3:hover{
+    border-bottom: hidden;
+    transition: 1s ease;
+}
+.ten{
+    font-family: "calibri";
+    font-size: 25px;
+    margin-left: 750px;
+}
+.hand{
+    margin-left: 1050;
+    margin-top: -530;
+}
+.hand:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.volunteer{
+    font-family: "calibri";
+    margin-left: 1150;
+    margin-top: -300px;
+    border: 3px solid gold;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 133px;
+}
+.hr5{
+    width:  130px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-left: 1150;
+}
+.volunteer:hover{
+    border-bottom: hidden;
+    transition: 1s ease;
+}
+.ben{
+    font-family: "calibri";
+    font-size: 25px;
+    margin-left: 1100;
+}
+.bi{
+    border: 1px solid gold;
+    background-color: gold;
+    color:gold;
+    padding-top: 200px;
+    padding-bottom: 200px
+}
+.firstname{
+    margin-top: -350px;
+    margin-left: 550px;
+}
+.letter{
+    margin-left: 550px;
+    background-color: transparent;
+    border: 3px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 190px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.letter:active{
+    border-color:  teal;
+}
+.lastname{
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.Email{
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.keep{
+    margin-top: -320px;
+    font-family: "calibri";
+    font-size: 50px;
+    margin-left: 123px;
+}
+.sign{
+    margin-top: 12px;
+    margin-left: 123px;
+    font-size: 23px;
+    font-family: "calibri";
+}
+.privacy{
+    margin-left: 1050px;
+    margin-top: -180px;
+    font-family: "calibri";
+    font-size: 20px;
+}
+.submit{
+    margin-left: 1050;
+    margin-top: 20px;
+    border: 3px solid black;
+    color: white;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "calibri";
+    padding-left: 10px;
+    width: 230px;
+    font-size: 25px;
+}
+.submit:hover{
+    background-color: transparent;
+    color: #000;
+    transition: 1s ease-in;
+}
+@media (max-width:975px){
+            p{
+            font-size: 10px;
+         }
+         div{
+            font-size: 10px;
+         }
+         h1{
+            font-size: 20px;
+         }
+         }
+    
